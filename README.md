@@ -3,4 +3,4 @@ made with c++
 
 * Uses [raylib](https://www.raylib.com/)
 
-<img src="https://github.com/pepega90/ola-billiards/blob/main/preview.gif" />
+<img src="https://github.com/pepega90/bola-billiards/blob/main/preview.gif" />
